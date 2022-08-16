@@ -1,7 +1,7 @@
 ## Hi Guys 🙋‍♂️  Im João Marcus
 
- * Currently and with great pleasure, I am a development intern at Instituto de Pesquisas Eldorado (Full-Stack).💻
- * Studing Angular and C# 
+ * I Love Develop Games and WebSites
+ * I Woork with .Net, Angular as FullStack Developer and Unity as Game Developer.
 <div>
   <a href="https://github.com/joaomarcus75">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcus75&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
