@@ -1,7 +1,7 @@
 ## Hi Guys 🙋‍♂️  Im João Marcus
 
  * I Love Develop Games, VR apps and WebSites/Apps.
- * I Work with Unity as autonomous Game Developer,FullStack Developer and Voluntarie Virtual Reality projects study group in an Research Centers.
+ * I work as an autonomous Unity Game Developer and in a Research Center as a FullStack Developer, in addition to being part of a study group for Voluntary Virtual Reality projects.
 <div>
   <a href="https://github.com/joaomarcus75">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcus75&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
