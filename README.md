@@ -9,13 +9,8 @@
 </div>
   <div style="display: inline_block " ><br>
   <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://www.google.com/search?q=unity+logo&rlz=1C1GCEU_pt-BRBR1013BR1013&sxsrf=ALiCzsYtrWM2ZKZHumaYQPreb8osCsxN6Q:1663671458033&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjvrZ2Sm6P6AhXYH7kGHaUNCp8Q_AUoAXoECAEQAw&biw=1280&bih=520&dpr=1.5#imgrc=zKbz1Ex5yLu6sM">
+  <img align="center" alt="Joao-Csharp" height="30" width="40" src="[https://www.google.com/search?q=unity+logo&rlz=1C1GCEU_pt-BRBR1013BR1013&sxsrf=ALiCzsYtrWM2ZKZHumaYQPreb8osCsxN6Q:1663671458033&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjvrZ2Sm6P6AhXYH7kGHaUNCp8Q_AUoAXoECAEQAw&biw=1280&bih=520&dpr=1.5#imgrc=zKbz1Ex5yLu6sM](https://www.google.com/search?q=unity+logo&rlz=1C1GCEU_pt-BRBR1013BR1013&sxsrf=ALiCzsYtrWM2ZKZHumaYQPreb8osCsxN6Q:1663671458033&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjvrZ2Sm6P6AhXYH7kGHaUNCp8Q_AUoAXoECAEQAw&biw=1280&bih=520&dpr=1.5#imgrc=ohGU9OV1cOeidM)">
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  
 
   ##
  
